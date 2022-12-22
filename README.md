@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I am Jiahao </h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-coder-hjh&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-coder-hjh&hide=TeX&layout=compact&exclude_repo=Exploration-and-Predictive-Analysis-of-Cryptocurrency-Trading-with-Binance-History-Data&exclude_repo=Call-of-Duty-Game" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hugo-coder-hjh&show_icons=true&count_private=true" alt="Hugo-coder-hjh" />
 
 🎓 Master Student at Upenn, Major in Computer Science(MCIT)
 
@@ -36,7 +37,5 @@
 ![Stripe](https://img.shields.io/badge/Stripe-232F3E?style=flat-square&logo=Stripe)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hugo-coder-hjh&show_icons=true&count_private=true" alt="Hugo-coder-hjh" />
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hugo-coder-hjh.Hugo-coder-hjh)
