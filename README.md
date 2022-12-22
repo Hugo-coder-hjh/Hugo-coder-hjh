@@ -11,7 +11,7 @@
 
 🎆 Enthusiastic about the Full-stack Engineering
 
-⚡ Fun fact: Actually I have a double major in Biotechnology (Bioinformatics track)
+⚡ Fun fact: Actually I have a double major in Biotechnology (Biomedical Technologies track)
 
 👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JiahaoHe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiahaohe1999/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-jiahaohe@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiahaohe@seas.upenn.edu)
