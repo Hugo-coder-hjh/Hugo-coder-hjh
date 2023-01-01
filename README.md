@@ -5,9 +5,7 @@
 
 🎓 Master Student at Upenn, Major in Computer Science(MCIT)
 
-🔭 I’m currently working on a full-stack Photo & Video-sharing Social Network App
-
-🌱 I’m currently learning React, Node Express, and MongoDB
+🔭 I’m currently curious about and learning Digital Health Investment
 
 🎆 Enthusiastic about the Full-stack Engineering
 
